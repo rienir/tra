@@ -1,0 +1,35 @@
+[33mcommit e65a74cd6001832ba597b37a6d93e55e8da2aec6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jarjar Binks <jarjarbinks@iespacomolla.es>
+Date:   Tue Nov 12 12:43:59 2019 +0100
+
+    Nuevas imágenes
+
+[33mcommit 2358309b50fdf8272bc187272f3badfafd6b220f[m
+Author: Jarjar Binks <jarjarbinks@iespacomolla.es>
+Date:   Tue Oct 29 10:19:29 2019 +0100
+
+    Añado fuentes personalizadas
+
+[33mcommit 9b049b4d466f0eba1a2fef9b4957eda22a2fc022[m
+Author: Jarjar Binks <jarjarbinks@iespacomolla.es>
+Date:   Tue Oct 29 10:17:21 2019 +0100
+
+    Sección 'My Pictures'
+
+[33mcommit b54b653e45c2245812eb7a501637c59d4a00e81b[m
+Author: Jarjar Binks <jarjarbinks@iespacomolla.es>
+Date:   Tue Oct 29 10:14:23 2019 +0100
+
+    Imágenes y su referencia desde la página css e index.html
+
+[33mcommit 04edd3e5af5e9021ee88994fe212ea133a05e26d[m
+Author: Jarjar Binks <jarjarbinks@iespacomolla.es>
+Date:   Tue Oct 29 10:09:27 2019 +0100
+
+    Hoja de estilos principal de la web y su vínculo desde index.html
+
+[33mcommit a46f5c2a0b7fb7de2f2b4513c8330b636c1cdd85[m
+Author: Jarjar Binks <jarjarbinks@iespacomolla.es>
+Date:   Tue Oct 29 09:36:40 2019 +0100
+
+    Primera versión de index.html sin elementos visuales
